@@ -39,6 +39,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hmferdous&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+
+<p>👯 Treat me to a cup of coffee, maybe?</p>
+<a href="https://www.buymeacoffee.com/hmferdous" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 <!--
 **hmferdous/hmferdous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
