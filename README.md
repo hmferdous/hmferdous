@@ -29,7 +29,6 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-grey?style=for-the-badge&logo=css3&style=flat-square&logoColor=white" />
   <img alt="wp" src="https://img.shields.io/badge/-WordPress-black?style=for-the-badge&logo=wordpress&style=flat-square&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-purple?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
 
